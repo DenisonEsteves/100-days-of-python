@@ -55,4 +55,4 @@ while True:
             print(f"Not enough {missing_ingredient}!")
 
     else:
-        print("Enter a valid option (espresso/latte/cappuccino/report/off)).")
+        print("Enter a valid option (espresso/latte/cappuccino/report/off).")
