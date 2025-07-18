@@ -31,4 +31,4 @@ resources = {
     "money": 0.0,
 }
 
-types_coffee = ["espresso", "latte", "cappuccino"]
+drinks = ["espresso", "latte", "cappuccino"]
