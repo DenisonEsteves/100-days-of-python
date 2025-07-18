@@ -1,6 +1,6 @@
 # 🐍 100 Days of Code: The Complete Python Pro Bootcamp
 
-Este repositório contém meus projetos desenvolvidos durante o curso **[100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/)**, ministrado pela instrutora **Dr. Angela Yu** na Udemy.
+Este repositório contém meus projetos desenvolvidos durante o curso **[100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)**, ministrado pela instrutora **Dr. Angela Yu** na Udemy.
 
 ---
 ## 📚 Sobre o Curso
