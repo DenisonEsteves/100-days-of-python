@@ -15,8 +15,7 @@ def process_order(type_coffee):
     resources["coffee"] -= MENU[type_coffee]["ingredients"]["coffee"]
     resources["money"] += MENU[type_coffee]["cost"]
 
-prompt = ""
-while prompt != "off":
+while True:
     prompt = input("What would you like? (espresso/latte/cappuccino): ")
 
     if prompt == "off":
